@@ -1,0 +1,15 @@
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\bin\Debug\net7.0\Prak5.exe
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\bin\Debug\net7.0\Prak5.deps.json
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\bin\Debug\net7.0\Prak5.runtimeconfig.json
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\bin\Debug\net7.0\Prak5.dll
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\bin\Debug\net7.0\Prak5.pdb
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\obj\Debug\net7.0\Prak5.csproj.AssemblyReference.cache
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\obj\Debug\net7.0\Prak5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\obj\Debug\net7.0\Prak5.AssemblyInfoInputs.cache
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\obj\Debug\net7.0\Prak5.AssemblyInfo.cs
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\obj\Debug\net7.0\Prak5.csproj.CoreCompileInputs.cache
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\obj\Debug\net7.0\Prak5.dll
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\obj\Debug\net7.0\refint\Prak5.dll
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\obj\Debug\net7.0\Prak5.pdb
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\obj\Debug\net7.0\Prak5.genruntimeconfig.cache
+C:\Users\Heavenly_lich\source\repos\Prak5\Prak5\obj\Debug\net7.0\ref\Prak5.dll
